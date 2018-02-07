@@ -6,3 +6,14 @@ Udemy Course - Moden JavaScript From The Beginning
 
 * Live Server
 * JavaScript (ES6) code snippet
+
+
+# JavaSciprt Primitive Data Types
+
+* String
+* Number
+* Boolean
+* Null
+* Undefined
+* Symbols (ES6)
+
