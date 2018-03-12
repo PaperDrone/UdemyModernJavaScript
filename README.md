@@ -1,14 +1,14 @@
-# UdemyModernJavaScript
+## UdemyModernJavaScript
 Udemy Course - Moden JavaScript From The Beginning
 
-# Editor Setup
-## Plugins
+## Editor Setup
+### Plugins
 
 * Live Server
 * JavaScript (ES6) code snippet
 
 
-# JavaSciprt Primitive Data Types
+## JavaSciprt Primitive Data Types
 
 * String
 * Number
@@ -17,3 +17,4 @@ Udemy Course - Moden JavaScript From The Beginning
 * Undefined
 * Symbols (ES6)
 
+## DOM (Document Object Model)
