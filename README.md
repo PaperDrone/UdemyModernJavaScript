@@ -18,3 +18,7 @@ Udemy Course - Moden JavaScript From The Beginning
 * Symbols (ES6)
 
 ## DOM (Document Object Model)
+
+* Tree of nodes/elements created by the browser
+* Javascript can be used to read/write/ manipulate to the DOM
+* Object Oriented Representation
